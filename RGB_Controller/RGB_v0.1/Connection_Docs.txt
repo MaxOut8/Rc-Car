@@ -1,0 +1,33 @@
+L298N Output Connections 
+OUT 1 -----> Green  //Write LOW to Glow green LED
+OUT 2 -----> + 12 v   //12v voltage 
+OUT 3 -----> RED  //Write LOW to Glow red LED
+OUT 4 -----> BLUE  //Write LOW to Glow blue LED
+
+
+
+//Enable 1 will Controll 
+VCC & Green LED 
+
+//Enable 2 will Controll 
+RED & BLUE LED 
+
+
+
+
+
+ modes :- Flash , Strobe , Fade , Smooth
+Colors :- Red , Green , Blue , White
+Brightness can be adjusted
+
+Function Created 
+strobe , 
+
+//Vcc Generate
+Vcc_ON
+
+//LED Controlls 
+GREEN_GLOW ,GREEN_HLOW
+
+//Enabe Controll Functions 
+full_E_ON ,one_E_ON,two_E_ON
