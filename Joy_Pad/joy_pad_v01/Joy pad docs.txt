@@ -1,0 +1,6 @@
+Connection
+1.Joypad 1 x axis ---> A0 (X axis Decrease On Left) {Value 129 to 16}
+2.Joypad 1 y axis ---> A1 (Y axis Derease On Down)  {Value 129 to 15} 
+3.Joypad 2 x axis ---> A2 (X axis Increase On Left) {Value 129 to 212}
+4.Joypad 2 y axis ---> A3 (Y axis Increase On Down) {Value 129 to 199}
+
